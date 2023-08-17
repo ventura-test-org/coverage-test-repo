@@ -28,7 +28,7 @@ public class Whatever2 {
         }
     }
 
-    public String returnWhat(String what, boolean whatIf) {
+    public String returnWhat3(String what, boolean whatIf) {
 
         if (whatIf) {
             System.out.println();
